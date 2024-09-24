@@ -10,14 +10,17 @@ Here are some of the certifications I've earned:
 - **Machine Learning with Python** ([View Certificate](https://coursera.org/share/42ad593aa56251dd399143e712e431c8)) - IBM  
   *Grade Achieved: 88.50%*
   
-- **Python for Data Science, AI & Development** ![View Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~NG3JYEX39TM2/CERTIFICATE_LANDING_PAGE~NG3JYEX39TM2.jpeg) - IBM  
+- **Python for Data Science, AI & Development** ([View Certificate](https://coursera.org/share/3cb6ed071abb1752ffb81d48e3bc7b40)) - IBM  
   *Grade Achieved: 94.37%*
   
-- **Introduction to Microsoft Excel** ![View Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~U2MMMSA8D7VX/CERTIFICATE_LANDING_PAGE~U2MMMSA8D7VX.jpeg) - Coursera Project Network  
+- **Introduction to Microsoft Excel** (([View Certificate](https://coursera.org/share/8a1deb34733c242b5bcd3aeb347c419b)) - Coursera Project Network  
   *Grade Achieved: 85.71%*
   
-- **Business Analysis Fundamentals** ![View Certificate](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~ESDSCMQTAFJW/CERTIFICATE_LANDING_PAGE~ESDSCMQTAFJW.jpeg) - Microsoft  
+- **Business Analysis Fundamentals** ([View Certificate](https://coursera.org/share/c03425bb8cbbbba5c3dfcdd1f9713bdc) - Microsoft  
   *Grade Achieved: 83.33%*
+
+
+
 
 <!---
 3XCeptional/3XCeptional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
