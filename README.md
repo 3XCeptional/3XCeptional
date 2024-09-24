@@ -8,6 +8,8 @@ I’m currently delving into advanced machine learning techniques and expanding 
 🎓 **Certifications**  
 Here are some of the certifications I've earned:
 
+- **Intro to Machine Learning.** ([View Certificate](https://www.kaggle.com/learn/certification/dhirenbhandare/intro-to-machine-learning)) - kaggle
+  
 - **Machine Learning with Python** ([View Certificate](https://coursera.org/share/42ad593aa56251dd399143e712e431c8)) - IBM  
   *Grade Achieved: 88.50%*
   
