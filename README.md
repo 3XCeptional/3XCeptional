@@ -29,7 +29,7 @@ Explore my [**Machine Learning & Data Science Notes**](https://github.com/3XCept
 - **Statistics**: Dive into key statistical concepts like standard deviation, variance, and error metrics for data analysis.
 - **Git Commands for ML Projects**: Helpful Git commands and workflows tailored for machine learning projects.
 
-**My Projects**
+** Checkout my Projects here**:
 - [Projects](https://github.com/3XCeptional/Ml-and-Data-Science-Notes-Notebooks/blob/main/Machine_learning/projects.md)
 
 Clone the repository to explore the content and enhance your understanding of machine learning and data science fundamentals.  
