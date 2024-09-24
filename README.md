@@ -1,6 +1,4 @@
-Here’s the updated version of your GitHub README bio with the certification section placed above the notes section:
 
----
 
 Welcome to my GitHub! I'm passionate about Data Science, Artificial Intelligence, and Machine Learning. My projects reflect my interest in these fields, and I'm constantly exploring new techniques and methodologies to deepen my understanding and skills.
 
