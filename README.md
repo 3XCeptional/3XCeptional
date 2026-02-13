@@ -1,40 +1,47 @@
+# Hi, I'm Dhiren Bhandare 👋 
 
+### 🛡️ Aspiring Cloud Security Engineer | USYD Master’s Student | Arch Linux Enthusiast
 
-Welcome to my GitHub! I'm passionate about Data Science, Artificial Intelligence, and Machine Learning. My projects reflect my interest in these fields, and I'm constantly exploring new techniques and methodologies to deepen my understanding and skills.
+[cite_start]I am a cybersecurity student based in **Sydney, Australia**, currently pursuing a **Master of Computer Science (Cybersecurity & Networking)** at the **University of Sydney**[cite: 189, 308]. My focus is on bridging the gap between robust system administration and proactive cloud security.
 
-📚 **What I’m Learning**  
-I’m currently delving into advanced machine learning techniques and expanding my knowledge in AI-driven analytics. My focus is on applying these skills to real-world problems.
+I am a "fix-it-first" advocate who daily-drives **Arch Linux**, enjoying the challenge of rolling-release management and kernel-level troubleshooting.
 
-🎓 **Certifications**  
-Here are some of the certifications I've earned:
+---
 
-- **Intro to Machine Learning.** ([View Certificate](https://www.kaggle.com/learn/certification/dhirenbhandare/intro-to-machine-learning)) - kaggle
-  
-- **Machine Learning with Python** ([View Certificate](https://coursera.org/share/42ad593aa56251dd399143e712e431c8)) - IBM  
-  *Grade Achieved: 88.50%*
-  
-- **Python for Data Science, AI & Development** ([View Certificate](https://coursera.org/share/3cb6ed071abb1752ffb81d48e3bc7b40)) - IBM  
-  *Grade Achieved: 94.37%*
-  
-- **Introduction to Microsoft Excel** ([View Certificate](https://coursera.org/share/8a1deb34733c242b5bcd3aeb347c419b)) - Coursera Project Network  
-  *Grade Achieved: 85.71%*
-  
-- **Business Analysis Fundamentals** ([View Certificate](https://coursera.org/share/c03425bb8cbbbba5c3dfcdd1f9713bdc)) - Microsoft  
-  *Grade Achieved: 83.33%*
+### 🚀 What I'm Working On
+- [cite_start]☁️ **Cloud Security:** Currently deep-diving into **Azure Administration (AZ-104)** and **Security+**[cite: 128, 210].
+- 🏛️ **Academic:** Exploring Network Security and Professional Practice at **USYD** (Feb 2026 – Present).
+- [cite_start]🐍 **Scripting:** Refreshing my **Python3** and **Bash** skills for security automation and network reconnaissance[cite: 10, 57].
 
-📝 **Machine Learning & Data Science Notes**  
-Explore my [**Machine Learning & Data Science Notes**](https://github.com/3XCeptional/Ml-and-Data-Science-Notes-Notebooks) repository, which serves as a comprehensive collection of study materials, project walkthroughs, and detailed explanations. This repository includes:
+### 🛠️ Technical Toolkit
+- [cite_start]**OS:** Arch Linux (Daily Driver), Kali Linux, Ubuntu, Windows Server[cite: 9, 56, 209].
+- [cite_start]**Security:** Ethical Hacking methodologies, Network Security Groups (NSGs), RBAC[cite: 13, 59].
+- [cite_start]**Data Science (The Foundation):** Leveraging a strong background in Machine Learning and Data Analysis to understand anomaly detection and threat patterns[cite: 112, 194].
+- [cite_start]**Tools:** Git, Vim, Docker, VirtualBox, Wireshark[cite: 127, 209, 291].
 
-- **Supervised Learning**: Detailed discussions on classification and regression tasks, including algorithms like Linear Regression, Decision Trees, and Random Forest.
-- **Unsupervised Learning**: Exploration of clustering techniques such as K-Means and anomaly detection, and more.
-- **Key Concepts**: Concepts like overfitting, train/test splits, performance metrics, and cross-validation for better model evaluation.
-- **Statistics**: Dive into key statistical concepts like standard deviation, variance, and error metrics for data analysis.
-- **Git Commands for ML Projects**: Helpful Git commands and workflows tailored for machine learning projects.
+---
 
+### 🎓 Certifications & Badges
+*Previously focused on Data Science, now pivoting those analytical skills toward Security.*
 
+- [cite_start]**Pentester Lab:** White Badge (Basics), Essential Badge (Web), Unix Badge[cite: 62, 63].
+- [cite_start]**IBM:** Python for Data Science, AI & Development[cite: 141, 223].
+- [cite_start]**IBM:** Machine Learning with Python[cite: 141, 223].
+- [cite_start]**DeepLearning.AI:** Generative AI for Everyone[cite: 142, 224].
+- [cite_start]**Microsoft:** Business Analysis Fundamentals & Build a Containerized Web App with Docker[cite: 139, 140, 221, 222].
 
+---
 
-<!---
-3XCeptional/3XCeptional is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📂 Featured Projects
+- [cite_start]**[getLINKS.py](https://github.com/3XCeptional/getLINKS)**: A Python3 tool for automated link retrieval and data gathering[cite: 27, 162].
+- [cite_start]**[LinkExtractor](https://github.com/3XCeptional/LinkExtractor)**: A web scraping tool designed for efficient data extraction[cite: 28, 167].
+- [cite_start]**[Streamflix](https://github.com/3XCeptional/Streamflix)**: A full-stack OTT platform prototype built with Django and Postgres, featuring user authentication and content management[cite: 172, 254].
+
+---
+
+### 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/dhiren-bhandare-a9bab3157](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
+- **Location:** Parramatta, NSW, Australia 🇦🇺
+
+---
+*"The quieter you become, the more you are able to hear."*
