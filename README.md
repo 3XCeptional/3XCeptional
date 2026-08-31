@@ -1,48 +1,45 @@
-# Hi, I'm Dhiren Bhandare 👋 
+# Hi, I'm Dhiren Bhandare 👋
 
-### 🛡️ Aspiring Cloud Security Engineer | USYD Master’s Student | Arch Linux Enthusiast
+### 🚀 Software Engineer & AI / Cybersecurity Student | USYD Master's Candidate
 
-I am a cybersecurity student based in **Sydney, Australia**, currently pursuing a **Master of Computer Science (Cybersecurity & Networking)** at the **University of Sydney**. My focus is on bridging the gap between robust system administration and proactive cloud security.
+I am a computer science postgraduate student based in **Sydney, Australia**, currently pursuing a **Master of Computer Science (Dual Specialisation: Data Science & AI, Cybersecurity)** at the **University of Sydney** with a Bachelor of Computer Applications (**B.C.A.**).
 
-I am a "fix-it-first" advocate who daily-drives **Arch Linux**, enjoying the challenge of rolling-release management and kernel-level troubleshooting.
+I focus on building reliable software systems, autonomous AI agent workflows, structured data pipelines, and secure backend APIs.
 
 ---
 
-### 🚀 What I'm Working On
-- ☁️ **Cloud Security:** Currently deep-diving into **Azure Administration (AZ-104)** and **Security+**.
-- 🏛️ **Academic:** Exploring Network Security and Professional Practice at **USYD** (Feb 2026 – Present).
-- 🐍 **Scripting:** Refreshing my **Python3** and **Bash** skills for security automation and network reconnaissance.
+### 🔭 Current Focus & Projects
+- 🤖 **AI Agents & LLM Toolchains:** Developing multi-step autonomous agent harnesses, API function calling, and browser automation workflows with Python & Playwright.
+- 📊 **Data Science & ML:** Machine learning pipelines with PyTorch, Pandas, and Scikit-Learn; exploratory data analysis and time-series modeling.
+- 🏛️ **Academic Pursuits:** Advanced Algorithms, Database Systems, Machine Learning & Data Mining, and Applied Cybersecurity at **The University of Sydney** (2026 – Present).
+- 🛠️ **Backend & Web Development:** Engineering lightweight RESTful APIs with FastAPI, Flask, SQLite/PostgreSQL, and Docker.
+
+---
 
 ### 🛠️ Technical Toolkit
-- **OS:** Arch Linux (Daily Driver), Kali Linux, Ubuntu, Windows Server.
-- **Security:** Ethical Hacking methodologies, Network Security Groups (NSGs), RBAC.
-- **Data Science (The Foundation):** Leveraging a strong background in Machine Learning and Data Analysis to understand anomaly detection and threat patterns.
-- **Tools:** Git, Vim, Docker, VirtualBox, Wireshark.
+
+- **Languages:** Python, SQL, Java, JavaScript/TypeScript, C/C++ (Academic Coursework), Bash/Shell
+- **AI / ML & Data Science:** PyTorch, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, LangChain, LLM APIs
+- **Backend & Web:** RESTful APIs, FastAPI, Flask, React (Basics), Node.js, HTML5/CSS3
+- **Databases:** PostgreSQL, SQLite, MySQL, Redis
+- **DevOps, Tools & OS:** Git/GitHub, Docker, Linux (Ubuntu / Arch), Windows, Postman, VS Code, Playwright
 
 ---
 
-### 🎓 Certifications & Badges
-*Previously focused on Data Science, now pivoting those analytical skills toward Security.*
+### 📂 Featured Repositories & Work
 
-- **Pentester Lab:** White Badge (Basics), Essential Badge (Web), Unix Badge.
-- **IBM:** Python for Data Science, AI & Development.
-- **IBM:** Machine Learning with Python.
-- **DeepLearning.AI:** Generative AI for Everyone.
-- **Microsoft:** Business Analysis Fundamentals & Build a Containerized Web App with Docker.
-
----
-
-### 📂 Featured Projects
-- **[getLINKS.py](https://github.com/3XCeptional/getLINKS)**: A Python3 tool for automated link retrieval and data gathering.
-- **[LinkExtractor](https://github.com/3XCeptional/LinkExtractor)**: A web scraping tool designed for efficient data extraction.
-- **[Streamflix](https://github.com/3XCeptional/Streamflix)**: A full-stack OTT platform prototype built with Django and Postgres, featuring user authentication and content management.
+- **[exceptional-blogs](https://github.com/3XCeptional/exceptional-blogs)** — In-depth research reports on AI systems, market analysis, and technology strategies.
+- **[getLINKS](https://github.com/3XCeptional/getLINKS)** — Automated Python search, URL extraction, and content retrieval utility.
+- **[Linkextractor](https://github.com/3XCeptional/Linkextractor)** — Web scraping and automated link extraction tool.
+- **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** — ML implementations, feature engineering pipelines, and Jupyter analysis notebooks.
+- **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** — Generative AI experiments, prompt engineering harnesses, and LLM API integrations.
 
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [linkedin.com/in/dhiren-bhandare-a9bab3157](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
-- **Location:** Parramatta, NSW, Australia 🇦🇺
+- 💼 **LinkedIn:** [linkedin.com/in/dhiren-bhandare-a9bab3157](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
+- 📍 **Location:** Sydney, NSW, Australia 🇦🇺
+- ✉️ **Email:** [dhirenforwork@gmail.com](mailto:dhirenforwork@gmail.com)
 
 ---
 *"The quieter you become, the more you are able to hear."*
-
