@@ -28,7 +28,7 @@ I focus on building reliable software systems, autonomous AI agent workflows, st
 
 ### 📂 Featured Repositories & Work
 
-- **[exceptional-blogs](https://github.com/3XCeptional/exceptional-blogs)** — In-depth research reports on AI systems, market analysis, and technology strategies.
+- **[Exceptional Research & Strategy Blogs](https://3xceptional.github.io/exceptional-blogs/)** ([Source](https://github.com/3XCeptional/exceptional-blogs)) — Live rendered technical research reports on AI systems, market analysis, and technology strategies.
 - **[getLINKS](https://github.com/3XCeptional/getLINKS)** — Automated Python search, URL extraction, and content retrieval utility.
 - **[Linkextractor](https://github.com/3XCeptional/Linkextractor)** — Web scraping and automated link extraction tool.
 - **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** — ML implementations, feature engineering pipelines, and Jupyter analysis notebooks.
