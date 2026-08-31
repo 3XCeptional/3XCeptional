@@ -1,45 +1,63 @@
-# Hi, I'm Dhiren Bhandare 👋
+<div align="center">
 
-### 🚀 Software Engineer & AI / Cybersecurity Student | USYD Master's Candidate
+# Hi there, I'm Dhiren Devdas Bhandare 👋
 
-I am a computer science postgraduate student based in **Sydney, Australia**, currently pursuing a **Master of Computer Science (Dual Specialisation: Data Science & AI, Cybersecurity)** at the **University of Sydney** with a Bachelor of Computer Applications (**B.C.A.**).
+### 🚀 Software Engineer $\cdot$ AI & Cybersecurity Researcher
+**Master of Computer Science (Data Science & AI, Cybersecurity) @ The University of Sydney**  
+**Academic WAM: 78.0 (Distinction)** $\cdot$ Sydney, NSW, Australia 🇦🇺
 
-I focus on building reliable software systems, autonomous AI agent workflows, structured data pipelines, and secure backend APIs.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
+[![Email](https://img.shields.io/badge/Email-dhirenforwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirenforwork@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-3xceptional-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/3xceptional)
 
----
-
-### 🔭 Current Focus & Projects
-- 🤖 **AI Agents & LLM Toolchains:** Developing multi-step autonomous agent harnesses, API function calling, and browser automation workflows with Python & Playwright.
-- 📊 **Data Science & ML:** Machine learning pipelines with PyTorch, Pandas, and Scikit-Learn; exploratory data analysis and time-series modeling.
-- 🏛️ **Academic Pursuits:** Advanced Algorithms, Database Systems, Machine Learning & Data Mining, and Applied Cybersecurity at **The University of Sydney** (2026 – Present).
-- 🛠️ **Backend & Web Development:** Engineering lightweight RESTful APIs with FastAPI, Flask, SQLite/PostgreSQL, and Docker.
+</div>
 
 ---
 
-### 🛠️ Technical Toolkit
+### 👨‍💻 About Me
 
-- **Languages:** Python, SQL, Java, JavaScript/TypeScript, C/C++ (Academic Coursework), Bash/Shell
-- **AI / ML & Data Science:** PyTorch, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, LangChain, LLM APIs
-- **Backend & Web:** RESTful APIs, FastAPI, Flask, React (Basics), Node.js, HTML5/CSS3
-- **Databases:** PostgreSQL, SQLite, MySQL, Redis
-- **DevOps, Tools & OS:** Git/GitHub, Docker, Linux (Ubuntu / Arch), Windows, Postman, VS Code, Playwright
+I am a postgraduate Computer Science candidate at **The University of Sydney (USYD)** specializing in **Data Science & AI** and **Cybersecurity**. I build high-throughput autonomous agent harnesses, secure distributed backend microservices, and AI-driven automation pipelines.
 
----
-
-### 📂 Featured Repositories & Work
-
-- **[Exceptional Research & Strategy Blogs](https://3xceptional.github.io/exceptional-blogs/)** ([Source](https://github.com/3XCeptional/exceptional-blogs)) — Live rendered technical research reports on AI systems, market analysis, and technology strategies.
-- **[getLINKS](https://github.com/3XCeptional/getLINKS)** — Automated Python search, URL extraction, and content retrieval utility.
-- **[Linkextractor](https://github.com/3XCeptional/Linkextractor)** — Web scraping and automated link extraction tool.
-- **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** — ML implementations, feature engineering pipelines, and Jupyter analysis notebooks.
-- **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** — Generative AI experiments, prompt engineering harnesses, and LLM API integrations.
+- 🤖 **Autonomous AI Systems:** Architecting intelligent multi-agent workflows, function calling pipelines, and headless web crawlers with Python, Playwright, and Crawl4AI.
+- 🛡️ **Cybersecurity & Systems:** Static application security analysis (SAST), penetration testing automation, threat modeling, and kernel-level runtime sandboxing.
+- ⚡ **High-Performance Backends:** Engineering low-latency RESTful APIs using FastAPI, SQLite/PostgreSQL, and rootless Podman/Docker containers.
+- 🎓 **Education:** Master of Computer Science @ USYD (2026 – Present) | Bachelor of Computer Applications (B.C.A.) -- Grade A (75.09%).
 
 ---
 
-### 📫 Connect with Me
-- 💼 **LinkedIn:** [linkedin.com/in/dhiren-bhandare-a9bab3157](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
-- 📍 **Location:** Sydney, NSW, Australia 🇦🇺
-- ✉️ **Email:** [dhirenforwork@gmail.com](mailto:dhirenforwork@gmail.com)
+### 🌟 Featured Repositories
+
+| Repository | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🎯 **[JobScout-AI](https://github.com/3XCeptional/JobScout-AI)** | Autonomous multi-board job scouting, candidate fit evaluator, and application tracker with real-time browser dashboard. | `Python` `Playwright` `FastAPI` `Podman` `Crawl4AI` |
+| 📖 **[exceptional-blogs](https://github.com/3XCeptional/exceptional-blogs)** | Technical research reports, AI architecture drill-downs, security strategies, and market analysis. | `Markdown` `Research` `AI Security` |
+| 🧠 **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** | Applied machine learning pipelines, deep neural architectures, feature engineering, and statistical modeling. | `PyTorch` `Scikit-Learn` `Pandas` `Jupyter` |
+| ⚡ **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** | Generative AI agent harnesses, prompt evaluation benchmarks, and LLM toolchain integrations. | `LangChain` `LLM APIs` `Python` |
+| 📚 **[DSA](https://github.com/3XCeptional/DSA)** | Data Structures & Algorithms implementations, dynamic programming, and complexity benchmarks. | `Python` `C++` `Algorithms` |
 
 ---
-*"The quieter you become, the more you are able to hear."*
+
+### 🛠️ Technical Proficiencies
+
+```
+Languages       : Python, C/C++, SQL, TypeScript, Bash, Go
+AI & Frameworks : PyTorch, FastAPI, Crawl4AI, Playwright, LangChain, React, Tailwind CSS
+DevOps & Cloud  : Podman, Docker, Rootless Containers, Linux (Ubuntu/Arch), Git/GitHub, AWS, GCP
+Databases       : PostgreSQL, SQLite, MySQL, Redis
+Cybersecurity   : SAST Auditing, OWASP Top 10, Network Reconnaissance, Sandboxing
+```
+
+---
+
+<div align="center">
+
+### 📊 GitHub Activity & Metrics
+
+<img src="https://github-readme-stats.vercel.app/api?username=3XCeptional&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=3XCeptional&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+<br/>
+
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=☕&slug=3xceptional&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/3xceptional)
+
+</div>
