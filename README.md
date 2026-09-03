@@ -30,7 +30,7 @@ I am a postgraduate Computer Science candidate at **The University of Sydney (US
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🎯 **[JobScout-AI](https://github.com/3XCeptional/JobScout-AI)** | Autonomous multi-board job scouting, candidate fit evaluator, and application tracker with real-time browser dashboard. | `Python` `Playwright` `FastAPI` `Podman` `Crawl4AI` |
-| 📖 **[exceptional-blogs](https://github.com/3XCeptional/exceptional-blogs)** | Technical research reports, AI architecture drill-downs, security strategies, and market analysis. | `Markdown` `Research` `AI Security` |
+| 📖 **[exceptional-blogs](https://3xceptional.github.io/exceptional-blogs/)** | Where I write up whatever I've been digging into lately: a new CVE, a weird job market trend, an AI security rabbit hole. | `Markdown` `Research` `AI Security` |
 | 🧠 **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** | Applied machine learning pipelines, deep neural architectures, feature engineering, and statistical modeling. | `PyTorch` `Scikit-Learn` `Pandas` `Jupyter` |
 | ⚡ **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** | Generative AI agent harnesses, prompt evaluation benchmarks, and LLM toolchain integrations. | `LangChain` `LLM APIs` `Python` |
 | 📚 **[DSA](https://github.com/3XCeptional/DSA)** | Data Structures & Algorithms implementations, dynamic programming, and complexity benchmarks. | `Python` `C++` `Algorithms` |
@@ -53,7 +53,7 @@ Cybersecurity   : SAST Auditing, OWASP Top 10, Network Reconnaissance, Sandboxin
 
 ### 📊 GitHub Activity & Metrics
 
-<img src="https://github-readme-stats.vercel.app/api?username=3XCeptional&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-sigma-pink.vercel.app/api?username=3XCeptional&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=3XCeptional&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 
 <br/>
