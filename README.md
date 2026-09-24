@@ -30,7 +30,7 @@ I am a postgraduate Computer Science candidate at **The University of Sydney (US
 | Repository | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 🎯 **[JobScout-AI](https://github.com/3XCeptional/JobScout-AI)** | Autonomous multi-board job scouting, candidate fit evaluator, and application tracker with real-time browser dashboard. | `Python` `Playwright` `FastAPI` `Podman` `Crawl4AI` |
-| 📖 **[exceptional-blogs](https://3xceptional.github.io/exceptional-blogs/)** | Where I write up whatever I've been digging into lately: a new CVE, a weird job market trend, an AI security rabbit hole. | `Markdown` `Research` `AI Security` |
+| 📖 **[exceptional-blogs](https://3xceptional.github.io/exceptional-blogs/)** | Autonomous AI daily intelligence briefings & technical blog poster: automated dissections of breaking CVEs, job market dynamics, and AI security rabbit holes. | `React` `Vite` `AI Automation` `Python` |
 | 🧠 **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** | Applied machine learning pipelines, deep neural architectures, feature engineering, and statistical modeling. | `PyTorch` `Scikit-Learn` `Pandas` `Jupyter` |
 | ⚡ **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** | Generative AI agent harnesses, prompt evaluation benchmarks, and LLM toolchain integrations. | `LangChain` `LLM APIs` `Python` |
 | 📚 **[DSA](https://github.com/3XCeptional/DSA)** | Data Structures & Algorithms implementations, dynamic programming, and complexity benchmarks. | `Python` `C++` `Algorithms` |
