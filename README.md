@@ -1,11 +1,11 @@
 <div align="center">
 
 # Dhiren Devdas Bhandare
-### Cloud Platform & DevSecOps Engineer $\cdot$ Enterprise IT Systems Specialist
+### Cloud Platform & DevSecOps Engineer • Enterprise IT Systems Specialist
 
 **Master of Computer Science (Data Science & AI, Cloud & Security) @ The University of Sydney**  
-**Academic WAM: 78.0 (Distinction)** $\cdot$ Sydney, NSW, Australia 🇦🇺  
-*5+ Years Enterprise IT Operations & Infrastructure Support (ServiceNow $\cdot$ Active Directory $\cdot$ EUC)*
+**Academic WAM: 78.0 (Distinction)** • Sydney, NSW, Australia 🇦🇺  
+5+ Years Enterprise IT Operations & Infrastructure Support (ServiceNow • Active Directory • EUC)
 
 <br/>
 
@@ -35,7 +35,7 @@ My core focus bridges production enterprise stability with modern cloud-native p
 | System / Repository | Focus Area | Architecture & Capabilities | Stack |
 | :--- | :--- | :--- | :--- |
 | 🔌 **[linkedin-mcp-server](https://github.com/3XCeptional/linkedin-mcp-server)** | AI Tooling / MCP | **Open-source Model Context Protocol server.** Grants Claude and autonomous AI swarms structured, authenticated access to professional graph data, profile intelligence, and job workflows. | `TypeScript` `MCP Protocol` `Playwright` `Node.js` |
-| 🛡️ **llmscan** <br/>*(Enterprise Core $\cdot$ Private Engine)* | DevSecOps / AI Security | **Automated AI security & shift-left CI/CD guardrail testing.** Scans LLM prompts, agent toolchains, and model interactions against OWASP LLM Top 10 vulnerabilities, prompt injection, and data exfiltration. | `Python` `FastAPI` `SAST` `Docker` `CI/CD` |
+| 🛡️ **llmscan** <br/>*(Enterprise Core • Private Engine)* | DevSecOps / AI Security | **Automated AI security & shift-left CI/CD guardrail testing.** Scans LLM prompts, agent toolchains, and model interactions against OWASP LLM Top 10 vulnerabilities, prompt injection, and data exfiltration. | `Python` `FastAPI` `SAST` `Docker` `CI/CD` |
 | 📡 **[exceptional-blogs](https://3xceptional.github.io/exceptional-blogs/)** <br/>*([Source](https://github.com/3XCeptional/exceptional-blogs))* | Cloud Intelligence | **Autonomous intelligence & security briefing engine.** Automated pipeline continuously synthesizing breaking CVEs, cloud platform engineering patterns, and enterprise architectural analyses. | `React` `Vite` `Python` `GitHub Actions` `Pages` |
 | 🧠 **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** | Agentic AI Systems | **Autonomous agent harnesses & evaluation benchmarks.** Multi-agent decision consensus gates, structured tool calling pipelines, and deterministic LLM judgment frameworks. | `Python` `LangChain` `LLM APIs` `Multi-Agent` |
 | 🔬 **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** | Data Science & Modeling | **Applied ML & deep learning architectures.** End-to-end data processing pipelines, neural network models, feature engineering pipelines, and statistical modeling benchmarks. | `PyTorch` `Scikit-Learn` `Pandas` `NumPy` |
@@ -121,7 +121,7 @@ flowchart LR
 ### 🎓 Academic & Professional Credentials
 
 - **Master of Computer Science (Data Science & AI, Cloud & Cybersecurity)**  
-  *The University of Sydney (USYD)* $\cdot$ 2026 – Present  
+  *The University of Sydney (USYD)* • 2026 – Present  
   **Academic WAM:** 78.0 (Distinction)
 - **Bachelor of Computer Applications (B.C.A.)**  
   *Grade A (75.09%)*
@@ -139,6 +139,6 @@ flowchart LR
 
 <br/><br/>
 
-**Sydney, NSW, Australia 🇦🇺 $\cdot$ Open to Cloud Platform & DevSecOps Opportunities**
+**Sydney, NSW, Australia 🇦🇺 • Open to Cloud Platform & DevSecOps Opportunities**
 
 </div>
