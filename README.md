@@ -11,8 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
 [![Email](https://img.shields.io/badge/Email-dhirenforwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirenforwork@gmail.com)
-[![GitHub Projects](https://img.shields.io/badge/Active%20Roadmap-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3XCeptional?tab=projects)
-[![Active Certifications](https://img.shields.io/badge/Target%20Certs-AWS%20SAA--C03%20%7C%20Terraform%20%7C%20CKA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/3XCeptional?tab=projects)
+[![GitHub Projects](https://img.shields.io/badge/Active%20Roadmap-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/3XCeptional/projects/3)
+[![Active Certifications](https://img.shields.io/badge/Target%20Certs-AWS%20SAA--C03%20%7C%20Terraform%20%7C%20CKA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/users/3XCeptional/projects/3)
 
 </div>
 
@@ -53,7 +53,7 @@ flowchart LR
     B --> C["Enterprise Target<br/>• Cloud Platform Engineer<br/>• DevSecOps Specialist<br/>• Cloud Support Operations"]
 ```
 
-👉 **[Explore Current Sprints & Milestones on GitHub Projects &rarr;](https://github.com/3XCeptional?tab=projects)**
+👉 **[Explore Current Sprints & Milestones on GitHub Projects (Board #3) &rarr;](https://github.com/users/3XCeptional/projects/3)**
 
 ---
 
