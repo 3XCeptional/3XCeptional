@@ -39,7 +39,6 @@ My core focus bridges production enterprise stability with modern cloud-native p
 | 📡 **[exceptional-blogs](https://3xceptional.github.io/exceptional-blogs/)** <br/>*([Source](https://github.com/3XCeptional/exceptional-blogs))* | Cloud Intelligence | **Autonomous intelligence & security briefing engine.** Automated pipeline continuously synthesizing breaking CVEs, cloud platform engineering patterns, and enterprise architectural analyses. | `React` `Vite` `Python` `GitHub Actions` `Pages` |
 | 🧠 **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** | Agentic AI Systems | **Autonomous agent harnesses & evaluation benchmarks.** Multi-agent decision consensus gates, structured tool calling pipelines, and deterministic LLM judgment frameworks. | `Python` `LangChain` `LLM APIs` `Multi-Agent` |
 | 🔬 **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** | Data Science & Modeling | **Applied ML & deep learning architectures.** End-to-end data processing pipelines, neural network models, feature engineering pipelines, and statistical modeling benchmarks. | `PyTorch` `Scikit-Learn` `Pandas` `NumPy` |
-| 📐 **[DSA](https://github.com/3XCeptional/DSA)** | Systems & Algorithms | **Algorithms & computational complexity suite.** High-performance implementations, dynamic programming solutions, graph optimizations, and asymptotic complexity benchmarks. | `C++` `Python` `Algorithms` `Optimization` |
 
 ---
 
