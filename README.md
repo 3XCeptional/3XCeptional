@@ -11,8 +11,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhiren-bhandare-a9bab3157)
 [![Email](https://img.shields.io/badge/Email-dhirenforwork%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhirenforwork@gmail.com)
-[![GitHub Projects](https://img.shields.io/badge/Active%20Roadmap-GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/users/3XCeptional/projects/3)
-[![Active Certifications](https://img.shields.io/badge/Target%20Certs-AWS%20SAA--C03%20%7C%20Terraform%20%7C%20CKA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/users/3XCeptional/projects/3)
+[![Career Track](https://img.shields.io/badge/Track-Cloud%20Platform%20%26%20DevSecOps-0969DA?style=for-the-badge&logo=cloudbees&logoColor=white)](https://github.com/3XCeptional)
+[![Active Certifications](https://img.shields.io/badge/Target%20Certs-AWS%20SAA--C03%20%7C%20Terraform%20%7C%20CKA-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#-engineering-roadmap--certification-milestones)
 
 </div>
 
@@ -35,7 +35,7 @@ My core focus bridges production enterprise stability with modern cloud-native p
 | System / Repository | Focus Area | Architecture & Capabilities | Stack |
 | :--- | :--- | :--- | :--- |
 | 🔌 **[linkedin-mcp-server](https://github.com/3XCeptional/linkedin-mcp-server)** | AI Tooling / MCP | **Open-source Model Context Protocol server.** Grants Claude and autonomous AI swarms structured, authenticated access to professional graph data, profile intelligence, and job workflows. | `TypeScript` `MCP Protocol` `Playwright` `Node.js` |
-| 🛡️ **[llmscan](https://github.com/3XCeptional/LLMSCAN)** | DevSecOps / AI Security | **Automated AI security & shift-left CI/CD guardrail testing.** Scans LLM prompts, agent toolchains, and model interactions against OWASP LLM Top 10 vulnerabilities, prompt injection, and data exfiltration. | `Python` `FastAPI` `SAST` `Docker` `CI/CD` |
+| 🛡️ **llmscan** <br/>*(Enterprise Core $\cdot$ Private Engine)* | DevSecOps / AI Security | **Automated AI security & shift-left CI/CD guardrail testing.** Scans LLM prompts, agent toolchains, and model interactions against OWASP LLM Top 10 vulnerabilities, prompt injection, and data exfiltration. | `Python` `FastAPI` `SAST` `Docker` `CI/CD` |
 | 📡 **[exceptional-blogs](https://3xceptional.github.io/exceptional-blogs/)** <br/>*([Source](https://github.com/3XCeptional/exceptional-blogs))* | Cloud Intelligence | **Autonomous intelligence & security briefing engine.** Automated pipeline continuously synthesizing breaking CVEs, cloud platform engineering patterns, and enterprise architectural analyses. | `React` `Vite` `Python` `GitHub Actions` `Pages` |
 | 🧠 **[GEN_AI](https://github.com/3XCeptional/GEN_AI)** | Agentic AI Systems | **Autonomous agent harnesses & evaluation benchmarks.** Multi-agent decision consensus gates, structured tool calling pipelines, and deterministic LLM judgment frameworks. | `Python` `LangChain` `LLM APIs` `Multi-Agent` |
 | 🔬 **[Machine_learning](https://github.com/3XCeptional/Machine_learning)** | Data Science & Modeling | **Applied ML & deep learning architectures.** End-to-end data processing pipelines, neural network models, feature engineering pipelines, and statistical modeling benchmarks. | `PyTorch` `Scikit-Learn` `Pandas` `NumPy` |
@@ -43,17 +43,15 @@ My core focus bridges production enterprise stability with modern cloud-native p
 
 ---
 
-### 📋 Live Projects & Engineering Roadmap
+### 📋 Engineering Roadmap & Certification Milestones
 
-Engineering deliverables, certification milestones, and active platform development are tracked on GitHub Projects:
+Engineering deliverables, certification milestones, and active platform development sprints:
 
 ```mermaid
 flowchart LR
-    A["Active Development<br/>• LLMScan Shift-Left Engine<br/>• LinkedIn MCP Server Extensions"] --> B["Active Certifications<br/>• AWS SAA-C03 Architecture<br/>• HashiCorp Terraform 003<br/>• CKA Kubernetes"]
+    A["Active Engineering<br/>• LLMScan Shift-Left Engine<br/>• LinkedIn MCP Server Extensions"] --> B["Active Certifications<br/>• AWS SAA-C03 Architecture<br/>• HashiCorp Terraform 003<br/>• CKA Kubernetes"]
     B --> C["Enterprise Target<br/>• Cloud Platform Engineer<br/>• DevSecOps Specialist<br/>• Cloud Support Operations"]
 ```
-
-👉 **[Explore Current Sprints & Milestones on GitHub Projects (Board #3) &rarr;](https://github.com/users/3XCeptional/projects/3)**
 
 ---
 
